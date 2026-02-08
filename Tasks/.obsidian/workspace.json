@@ -8,49 +8,47 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a537e115aa5dc7b3",
+            "id": "582499d5f44a38c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Как бороться с когнитивными искажениями.md",
+                "file": "Статистика/Показатели разброса. Measures of spread.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Как бороться с когнитивными искажениями"
+              "title": "Показатели разброса. Measures of spread"
             }
           },
           {
-            "id": "33d16b7440af60dd",
+            "id": "96711451aa1d9a18",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.11.4"
+            }
+          },
+          {
+            "id": "9c5565ec2cab844e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Книги/Math/Essential math for data science/Вероятности.md",
+                "file": "Python/ScikitLearn. Load_Iris. Dataset.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вероятности"
+              "title": "ScikitLearn. Load_Iris. Dataset"
             }
           },
           {
-            "id": "f2c77644cf923618",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Теория вероятности. Учебное пособие.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Теория вероятности. Учебное пособие"
-            }
-          },
-          {
-            "id": "3b7a83f61caa36e8",
+            "id": "4eaa88f06505ec91",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,77 +62,157 @@
             }
           },
           {
-            "id": "a872ce7a9bae3a40",
+            "id": "538bda83206e2965",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алгоритмы и структуры данных. Анализ программ с рекурсивными вызовами..md",
+                "file": "Цифровая кафедра/Лекция 3. Математический праймер для ML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Алгоритмы и структуры данных. Анализ программ с рекурсивными вызовами."
+              "title": "Лекция 3. Математический праймер для ML"
             }
           },
           {
-            "id": "d638ac6f4a8fc334",
+            "id": "625d8d7aa7f418a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Цифровая кафедра/Лекция 2. Данные и признаки. Сбор, очистка, валидация, DataOps.md",
+                "file": "Градиент Нестерова.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лекция 2. Данные и признаки. Сбор, очистка, валидация, DataOps"
+              "title": "Градиент Нестерова"
             }
           },
           {
-            "id": "25cbb0948ebf6ea7",
+            "id": "6e6ac9f6576c7f64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matplotlib.md",
+                "file": "AdaM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matplotlib"
+              "title": "AdaM"
             }
           },
           {
-            "id": "23587e537056e999",
+            "id": "9f19f36d2bdad2ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stackplot.md",
+                "file": "Окрестность точки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stackplot"
+              "title": "Окрестность точки"
             }
           },
           {
-            "id": "2abe24575e8699a5",
+            "id": "82d01e3a1ac35df5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Джава аудиторная работа 6.md",
+                "file": "Функция одной переменной.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Джава аудиторная работа 6"
+              "title": "Функция одной переменной"
+            }
+          },
+          {
+            "id": "c8be44320ebf0bc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Пределы функций в ML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Пределы функций в ML"
+            }
+          },
+          {
+            "id": "ee9088304ac98e96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Бином Ньютона. Треугольник паскаля.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Бином Ньютона. Треугольник паскаля"
+            }
+          },
+          {
+            "id": "8fc5145c5128ef0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Формула для разности степеней.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Формула для разности степеней"
+            }
+          },
+          {
+            "id": "d0a8b308c794106e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Непрерывность функций. Дифференцируемость.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Непрерывность функций. Дифференцируемость"
+            }
+          },
+          {
+            "id": "d0400e0963052442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Линейная алгебра в сфере анализа данных.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Линейная алгебра в сфере анализа данных"
+            }
+          },
+          {
+            "id": "0e38cf621c50ec60",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -144,48 +222,8 @@
     "type": "split",
     "children": [
       {
-        "id": "d0533c84f96e9a84",
-        "type": "tabs",
-        "dimension": 25.83979328165374,
-        "children": [
-          {
-            "id": "2a4533431434db75",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Закладки"
-            }
-          }
-        ]
-      },
-      {
-        "id": "48a977ad04d3da91",
-        "type": "tabs",
-        "dimension": 25.83979328165374,
-        "children": [
-          {
-            "id": "182054b2ee7b7d7f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Теги"
-            }
-          }
-        ]
-      },
-      {
         "id": "985c5c23eaef7fde",
         "type": "tabs",
-        "dimension": 48.32041343669252,
         "children": [
           {
             "id": "0d1631e91dcb33bb",
@@ -216,55 +254,30 @@
               "icon": "lucide-search",
               "title": "Поиск"
             }
+          },
+          {
+            "id": "b5982a66bb331563",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 298.5
   },
   "right": {
     "id": "909158c6e4bfd373",
     "type": "split",
     "children": [
       {
-        "id": "0ed0256c7e6248fa",
-        "type": "tabs",
-        "dimension": 24.50980392156863,
-        "children": [
-          {
-            "id": "3279cba86efae86a",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5f09d49d21a5b650",
-        "type": "tabs",
-        "dimension": 24.50980392156863,
-        "children": [
-          {
-            "id": "9503717f0d54b277",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {},
-              "icon": "clock",
-              "title": "Reminders"
-            }
-          }
-        ]
-      },
-      {
         "id": "6a10548d35078ad5",
         "type": "tabs",
-        "dimension": 50.98039215686274,
         "children": [
           {
             "id": "f8ef4dedb7d8c10e",
@@ -305,13 +318,48 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Джава аудиторная работа 6.md",
+                "file": "Линейная алгебра в сфере анализа данных.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Джава аудиторная работа 6"
+              "title": "Структура Линейная алгебра в сфере анализа данных"
+            }
+          },
+          {
+            "id": "351eb00570384db1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "62db00f5c578cbe6",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "6389e5540e2e13b9",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
             }
           }
         ],
@@ -319,7 +367,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -332,53 +380,53 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2abe24575e8699a5",
+  "active": "d0400e0963052442",
   "lastOpenFiles": [
-    "Stackplot.md",
-    "Джава аудиторная работа 6.md",
-    "Matplotlib.md",
-    "Цифровая кафедра/Лекция 2. Данные и признаки. Сбор, очистка, валидация, DataOps.md",
-    "Личное/Изменения.md",
-    "Attachments/Pasted image 20251130081113.png",
-    "Проекты и задачи/Прочитать информацию из книги Tiego Forte про второй мозг.md",
-    "Attachments/Pasted image 20251130080058.png",
-    "Цифровая кафедра/Лекция 1. Инженерия ИИ. Система, роли, жизненный цикл, требования к данным.md",
-    "аххпвахп.md",
-    "Attachments/Pasted image 20251129205710.png",
-    "Attachments/Pasted image 20251129204449.png",
-    "Attachments/Pasted image 20251129203717.png",
-    "Attachments/Pasted image 20251129203617.png",
-    "Attachments/Pasted image 20251129202422.png",
-    "Attachments/Pasted image 20251129202344.png",
-    "Attachments/Pasted image 20251128102220.png",
-    "Attachments/Pasted image 20251128094345.png",
-    "NLP. Чат поддержки.md",
-    "Личное",
-    "Цифровая кафедра/Семинар 1..md",
-    "Алгоритмы и структуры данных. Анализ программ с рекурсивными вызовами..md",
-    "Английский.md",
-    "Аналитика данных.md",
-    "Цифровая кафедра/Семинар 1. Домашняя работа.md",
-    "Attachments/S01-brief.md",
-    "Лаплассовский детерминизм.md",
-    "Проекты и задачи/Планы.md",
-    "Английский ебучий учить.md",
-    "Цифровая кафедра/Без названия",
-    "Attachments/S01-homework 1.md",
-    "Цифровая кафедра",
-    "Attachments/S01-homework.md",
+    "Линейная алгебра в сфере анализа данных.md",
     "RL.Математика за обучением с подкреплением.md",
-    "Модели машинного обучения.md",
-    "Книги/Math/Essential math for data science/Линейная алгебра.md",
-    "Книги/Math/Essential math for data science/Описательная и логическая статистика.md",
-    "Алгоритмы. 3 практическая.md",
-    "Теория вероятности. Учебное пособие.md",
+    "Pop-up book. Интересные книжки с объемными изображениями..md",
+    "Личное/Изменения.md",
+    "Личное/Новый план.md",
+    "Проекты и задачи/Заполнить конспекты прочитанных книг по программированию.md",
+    "Проекты и задачи/Планы.md",
+    "Астрономическое лето в Северном полушарии начинается 21 июня.md",
+    "Библиотека sympy и math не могут работать вместе, так как представляют почти одно и то же.md",
+    "Без названия.md",
+    "Бином Ньютона. Треугольник паскаля.md",
+    "Все типы данных можно представить в виде массивов чисел..md",
+    "Геймджем.md",
+    "Градиент Нестерова.md",
+    "Зеттелькастен метод. Николас Луманн.md",
+    "Инфокоммуникационные системы и сети.md",
+    "История P-значений в статистике..md",
+    "Окрестность точки.md",
+    "Как устроены типы в Python.md",
+    "На западном фронте без перемен. Эрих Ремарк.md",
+    "Парадокс Симпсона.md",
+    "Пределы функций в ML.md",
+    "Символика Ландау.md",
+    "Python/Stackplot.md",
+    "Python/sort().md",
+    "Python/ScikitLearn. Load_Iris. Dataset.md",
+    "Attachments/Pasted image 20260205234909.png",
+    "Attachments/Pasted image 20260205162119.png",
+    "Attachments/Pasted image 20260205162039.png",
+    "Attachments/Pasted image 20260204230814.png",
+    "Attachments/Pasted image 20260204230719.png",
+    "Attachments/Pasted image 20260204230424.png",
+    "Attachments/Pasted image 20260202014021.png",
+    "Attachments/Pasted image 20260202014010.png",
+    "Attachments/Pasted image 20260202011104.png",
+    "Attachments/Pasted image 20260202010546.png",
+    "Статистика",
+    "Python",
+    "Хэндбук по математике для МЛ",
+    "Личное",
+    "Цифровая кафедра/Без названия",
+    "Цифровая кафедра",
     "Книги/Math/Essential math for data science",
     "Книги/Math",
     "Книги/Python/Python для сложных задач/Без названия",
-    "Книги/Python/Python для сложных задач",
-    "Книги/Python",
-    "Книги/SQL/SQL Легкое погружение",
-    "Книги/SQL"
+    "Книги/Python/Python для сложных задач"
   ]
 }
