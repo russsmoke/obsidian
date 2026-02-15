@@ -4,205 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "516d02f94371656a",
+        "id": "72e773411a6ab574",
         "type": "tabs",
         "children": [
           {
-            "id": "582499d5f44a38c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Статистика/Показатели разброса. Measures of spread.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Показатели разброса. Measures of spread"
-            }
-          },
-          {
-            "id": "96711451aa1d9a18",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.11.4"
-            }
-          },
-          {
-            "id": "9c5565ec2cab844e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/ScikitLearn. Load_Iris. Dataset.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ScikitLearn. Load_Iris. Dataset"
-            }
-          },
-          {
-            "id": "4eaa88f06505ec91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Книги/Math/Essential math for data science/Описательная и логическая статистика.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Описательная и логическая статистика"
-            }
-          },
-          {
-            "id": "538bda83206e2965",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Цифровая кафедра/Лекция 3. Математический праймер для ML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Лекция 3. Математический праймер для ML"
-            }
-          },
-          {
-            "id": "625d8d7aa7f418a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Градиент Нестерова.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Градиент Нестерова"
-            }
-          },
-          {
-            "id": "6e6ac9f6576c7f64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AdaM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AdaM"
-            }
-          },
-          {
-            "id": "9f19f36d2bdad2ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Окрестность точки.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Окрестность точки"
-            }
-          },
-          {
-            "id": "82d01e3a1ac35df5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Функция одной переменной.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Функция одной переменной"
-            }
-          },
-          {
-            "id": "c8be44320ebf0bc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Пределы функций в ML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Пределы функций в ML"
-            }
-          },
-          {
-            "id": "ee9088304ac98e96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Бином Ньютона. Треугольник паскаля.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Бином Ньютона. Треугольник паскаля"
-            }
-          },
-          {
-            "id": "8fc5145c5128ef0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Формула для разности степеней.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Формула для разности степеней"
-            }
-          },
-          {
-            "id": "d0a8b308c794106e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Непрерывность функций. Дифференцируемость.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Непрерывность функций. Дифференцируемость"
-            }
-          },
-          {
-            "id": "d0400e0963052442",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Линейная алгебра в сфере анализа данных.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Линейная алгебра в сфере анализа данных"
-            }
-          },
-          {
-            "id": "2653281aacd3a5d6",
+            "id": "587de44dcb03a8e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -216,17 +22,20 @@
             }
           },
           {
-            "id": "0e38cf621c50ec60",
+            "id": "2bd9f0f46cce67ac",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Линейная алгебра в сфере анализа данных.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Линейная алгебра в сфере анализа данных"
             }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -283,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 350.5
   },
   "right": {
     "id": "909158c6e4bfd373",
@@ -406,18 +214,35 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2653281aacd3a5d6",
+  "active": "587de44dcb03a8e1",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260215190003.png",
+    "Линейная алгебра в сфере анализа данных.md",
+    "Непрерывность функций. Дифференцируемость.md",
+    "Функции двух переменных.md",
+    "Attachments/Pasted image 20260215155235.png",
+    "Статистика/Показатели разброса. Measures of spread.md",
+    "Лекция 4. Метрики и экспериментальный дизайн.md",
+    "Формула для разности степеней.md",
+    "Бином Ньютона. Треугольник паскаля.md",
+    "Пределы функций в ML.md",
+    "Функция одной переменной.md",
+    "Окрестность точки.md",
+    "AdaM.md",
+    "Градиент Нестерова.md",
+    "Без названия 1.base",
+    "Без названия.base",
+    "Понятие базы данных.md",
+    "ИИ.md",
+    "Attachments/Pasted image 20260214140407.png",
+    "Attachments/Pasted image 20260214125905.png",
+    "Attachments/Pasted image 20260210172524.png",
+    "Attachments/Pasted image 20260210172514.png",
     "Attachments/Pasted image 20260209002046.png",
     "Attachments/Pasted image 20260209001540.png",
     "Attachments/Pasted image 20260209000225.png",
     "Attachments/Pasted image 20260208235912.png",
     "Attachments/Pasted image 20260208235643.png",
-    "Attachments/Pasted image 20260208235538.png",
-    "Attachments/Pasted image 20260208235350.png",
-    "Линейная алгебра в сфере анализа данных.md",
-    "Функции двух переменных.md",
-    "Attachments/Pasted image 20260208170025.png",
     "Сущность линейной алгебры.md",
     "RL.Математика за обучением с подкреплением.md",
     "Pop-up book. Интересные книжки с объемными изображениями..md",
@@ -427,23 +252,8 @@
     "Проекты и задачи/Планы.md",
     "Астрономическое лето в Северном полушарии начинается 21 июня.md",
     "Библиотека sympy и math не могут работать вместе, так как представляют почти одно и то же.md",
-    "Бином Ньютона. Треугольник паскаля.md",
     "Все типы данных можно представить в виде массивов чисел..md",
     "Геймджем.md",
-    "Градиент Нестерова.md",
-    "Зеттелькастен метод. Николас Луманн.md",
-    "Инфокоммуникационные системы и сети.md",
-    "История P-значений в статистике..md",
-    "Окрестность точки.md",
-    "Как устроены типы в Python.md",
-    "На западном фронте без перемен. Эрих Ремарк.md",
-    "Парадокс Симпсона.md",
-    "Пределы функций в ML.md",
-    "Символика Ландау.md",
-    "Python/Stackplot.md",
-    "Attachments/Pasted image 20260205234909.png",
-    "Attachments/Pasted image 20260205162119.png",
-    "Attachments/Pasted image 20260205162039.png",
     "Статистика",
     "Python",
     "Хэндбук по математике для МЛ",
@@ -451,8 +261,6 @@
     "Цифровая кафедра/Без названия",
     "Цифровая кафедра",
     "Книги/Math/Essential math for data science",
-    "Книги/Math",
-    "Книги/Python/Python для сложных задач/Без названия",
-    "Книги/Python/Python для сложных задач"
+    "Книги/Math"
   ]
 }
