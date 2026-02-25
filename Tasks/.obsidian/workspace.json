@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "582499d5f44a38c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Статистика/Показатели разброса. Measures of spread.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Показатели разброса. Measures of spread"
-            }
-          },
-          {
-            "id": "96711451aa1d9a18",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.11.4"
-            }
-          },
-          {
             "id": "9c5565ec2cab844e",
             "type": "leaf",
             "state": {
@@ -45,160 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "ScikitLearn. Load_Iris. Dataset"
-            }
-          },
-          {
-            "id": "4eaa88f06505ec91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Книги/Math/Essential math for data science/Описательная и логическая статистика.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Описательная и логическая статистика"
-            }
-          },
-          {
-            "id": "538bda83206e2965",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Цифровая кафедра/Лекция 3. Математический праймер для ML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Лекция 3. Математический праймер для ML"
-            }
-          },
-          {
-            "id": "625d8d7aa7f418a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Градиент Нестерова.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Градиент Нестерова"
-            }
-          },
-          {
-            "id": "6e6ac9f6576c7f64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AdaM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AdaM"
-            }
-          },
-          {
-            "id": "9f19f36d2bdad2ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Окрестность точки.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Окрестность точки"
-            }
-          },
-          {
-            "id": "82d01e3a1ac35df5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Функция одной переменной.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Функция одной переменной"
-            }
-          },
-          {
-            "id": "c8be44320ebf0bc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Пределы функций в ML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Пределы функций в ML"
-            }
-          },
-          {
-            "id": "ee9088304ac98e96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Бином Ньютона. Треугольник паскаля.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Бином Ньютона. Треугольник паскаля"
-            }
-          },
-          {
-            "id": "8fc5145c5128ef0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Формула для разности степеней.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Формула для разности степеней"
-            }
-          },
-          {
-            "id": "d0a8b308c794106e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Непрерывность функций. Дифференцируемость.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Непрерывность функций. Дифференцируемость"
-            }
-          },
-          {
-            "id": "210f8509b237d7fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Цифровая кафедра/Лекция 5. Линейные модели.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Лекция 5. Линейные модели"
             }
           },
           {
@@ -216,21 +36,59 @@
             }
           },
           {
-            "id": "0e38cf621c50ec60",
+            "id": "f05b02f2befa749e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Цифровая кафедра/Лекция 2. Данные и признаки. Сбор, очистка, валидация, DataOps.md",
+                "file": "Scatter Plot. Диаграмма рассеивания.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лекция 2. Данные и признаки. Сбор, очистка, валидация, DataOps"
+              "title": "Scatter Plot. Диаграмма рассеивания"
+            }
+          },
+          {
+            "id": "4be43f05d5ee5d6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Корреляция.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Корреляция"
+            }
+          },
+          {
+            "id": "699716db3a7dc4b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Цифровая кафедра/Лекция 1. Инженерия ИИ. Система, роли, жизненный цикл, требования к данным.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лекция 1. Инженерия ИИ. Система, роли, жизненный цикл, требования к данным"
+            }
+          },
+          {
+            "id": "2808d5f4f10dc808",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -262,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "matplotl",
+                "query": "scikit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -283,8 +141,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -337,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matplotlib.md",
+                "file": "Scatter Plot. Диаграмма рассеивания.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Matplotlib"
+              "title": "Структура Scatter Plot. Диаграмма рассеивания"
             }
           },
           {
@@ -396,7 +253,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -409,14 +267,35 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "47272196efeda4d8",
+  "active": "f05b02f2befa749e",
   "lastOpenFiles": [
+    "Цифровая кафедра/Лекция 1. Инженерия ИИ. Система, роли, жизненный цикл, требования к данным.md",
+    "Без названия 2.base",
+    "Scikit-learn.Load_diabetes.md",
+    "Attachments/Pasted image 20260224152647.png",
+    "Attachments/Pasted image 20260224151359.png",
+    "Python/ScikitLearn. Load_Iris. Dataset.md",
+    "Цифровая кафедра/Лекция 2. Данные и признаки. Сбор, очистка, валидация, DataOps.md",
+    "Matplotlib.md",
+    "Цифровая кафедра/Лекция 5. Линейные модели.md",
+    "Непрерывность функций. Дифференцируемость.md",
+    "Формула для разности степеней.md",
+    "Бином Ньютона. Треугольник паскаля.md",
+    "Пределы функций в ML.md",
+    "Функция одной переменной.md",
+    "Окрестность точки.md",
+    "AdaM.md",
+    "Градиент Нестерова.md",
+    "Цифровая кафедра/Лекция 3. Математический праймер для ML.md",
+    "Книги/Math/Essential math for data science/Описательная и логическая статистика.md",
+    "Корреляция.md",
+    "Attachments/Pasted image 20260224145801.png",
+    "Scatter Plot. Диаграмма рассеивания.md",
     "Attachments/Pasted image 20260223003430.png",
     "Attachments/Pasted image 20260223003300.png",
     "Attachments/Pasted image 20260223000708.png",
     "Понятие базы данных.md",
     "Без названия.md",
-    "Цифровая кафедра/Лекция 5. Линейные модели.md",
     "Книги/Math/Essential math for data science/Основная информация.md",
     "Цифровая кафедра/Лекция 4. Метрики и экспериментальный дизайн.md",
     "Модели нечетких множеств.md",
@@ -424,29 +303,9 @@
     "Attachments/Pasted image 20260222161907.png",
     "Attachments/Pasted image 20260222161343.png",
     "Attachments/Pasted image 20260222144854.png",
-    "Attachments/Pasted image 20260218184924.png",
-    "Attachments/Pasted image 20260218184623.png",
-    "Attachments/Pasted image 20260218161548.png",
-    "Attachments/Pasted image 20260218161232.png",
-    "Книги/Math/Essential math for data science/Описательная и логическая статистика.md",
     "Статистика/Статистика.md",
     "Статистика/Статистика. Начало.md",
     "Python/map().md",
-    "Лекция 4. Метрики и экспериментальный дизайн.md",
-    "Цифровая кафедра/Лекция 2. Данные и признаки. Сбор, очистка, валидация, DataOps.md",
-    "ИИ.md",
-    "Инвестиции.md",
-    "Проект ИИ системы.md",
-    "Окрестность точки.md",
-    "Лаплассовский детерминизм.md",
-    "Цифровая кафедра/Лекция 3. Математический праймер для ML.md",
-    "Градиент Нестерова.md",
-    "Линейная алгебра в сфере анализа данных.md",
-    "RL.Математика за обучением с подкреплением.md",
-    "Pop-up book. Интересные книжки с объемными изображениями..md",
-    "Личное/Изменения.md",
-    "Личное/Новый план.md",
-    "Проекты и задачи/Заполнить конспекты прочитанных книг по программированию.md",
     "Статистика",
     "Python",
     "Хэндбук по математике для МЛ",
@@ -455,7 +314,6 @@
     "Цифровая кафедра",
     "Книги/Math/Essential math for data science",
     "Книги/Math",
-    "Книги/Python/Python для сложных задач/Без названия",
-    "Книги/Python/Python для сложных задач"
+    "Книги/Python/Python для сложных задач/Без названия"
   ]
 }
