@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "516d02f94371656a",
+        "id": "253be1dd29261f48",
         "type": "tabs",
         "children": [
           {
-            "id": "525d5ad6c1b1df35",
+            "id": "fa62f928b68ad07b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bar Plot (Столбчатые диаграммы).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Bar Plot (Столбчатые диаграммы)"
-            }
-          },
-          {
-            "id": "fba1ca4fab8474e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matplotlib.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Matplotlib"
+              "title": "Новая вкладка"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,13 +70,11 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "909158c6e4bfd373",
@@ -130,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matplotlib.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Matplotlib"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -144,13 +122,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matplotlib.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Matplotlib"
+              "title": "Структура"
             }
           },
           {
@@ -203,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,12 +193,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "fba1ca4fab8474e7",
+  "active": "0d1631e91dcb33bb",
   "lastOpenFiles": [
+    "Matplotlib.md",
+    "Bar Plot (Столбчатые диаграммы).md",
     "Attachments/Pasted image 20260223003430.png",
     "Attachments/Pasted image 20260223003300.png",
     "Attachments/Pasted image 20260223000708.png",
-    "Bar Plot (Столбчатые диаграммы).md",
     "Attachments/Pasted image 20260223201421.png",
     "Python/Stackplot.md",
     "Цифровая кафедра/Лекция 5. Линейные модели.md",
@@ -237,7 +215,6 @@
     "Книги/Math/Essential math for data science/Описательная и логическая статистика.md",
     "Python/ScikitLearn. Load_Iris. Dataset.md",
     "Статистика/Показатели разброса. Measures of spread.md",
-    "Matplotlib.md",
     "Attachments/Pasted image 20260223182031.png",
     "Attachments/Pasted image 20260223175457.png",
     "Attachments/Pasted image 20260223175235.png",
