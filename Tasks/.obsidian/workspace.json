@@ -4,91 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "516d02f94371656a",
+        "id": "9c498851b8ba1ade",
         "type": "tabs",
         "children": [
           {
-            "id": "9c5565ec2cab844e",
+            "id": "9593230c9e28d8d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/ScikitLearn. Load_Iris. Dataset.md",
+                "file": "Matplotlib/Stackplot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ScikitLearn. Load_Iris. Dataset"
+              "title": "Stackplot"
             }
           },
           {
-            "id": "47272196efeda4d8",
+            "id": "75df9001795ac63d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matplotlib.md",
+                "file": "Проект ИИ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matplotlib"
-            }
-          },
-          {
-            "id": "f05b02f2befa749e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scatter Plot. Диаграмма рассеивания.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scatter Plot. Диаграмма рассеивания"
-            }
-          },
-          {
-            "id": "4be43f05d5ee5d6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Корреляция.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Корреляция"
-            }
-          },
-          {
-            "id": "699716db3a7dc4b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Цифровая кафедра/Лекция 1. Инженерия ИИ. Система, роли, жизненный цикл, требования к данным.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Лекция 1. Инженерия ИИ. Система, роли, жизненный цикл, требования к данным"
-            }
-          },
-          {
-            "id": "2808d5f4f10dc808",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Проект ИИ"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scikit",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,12 +128,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Книги/Python/Python для сложных задач/IPython. Библиотека Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из IPython. Библиотека Python"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -194,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scatter Plot. Диаграмма рассеивания.md",
+                "file": "Проект ИИ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Scatter Plot. Диаграмма рассеивания"
+              "title": "Структура Проект ИИ"
             }
           },
           {
@@ -253,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,24 +213,24 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "f05b02f2befa749e",
+  "active": "75df9001795ac63d",
   "lastOpenFiles": [
-    "Bar Plot (Столбчатые диаграммы).md",
-    "Attachments/Pasted image 20260223201421.png",
-    "Attachments/Pasted image 20260223182031.png",
-    "Attachments/Pasted image 20260223175457.png",
-    "Attachments/Pasted image 20260223175235.png",
-    "Attachments/Pasted image 20260223174028.png",
-    "Attachments/Pasted image 20260223173510.png",
-    "Attachments/Pasted image 20260223173312.png",
-    "Цифровая кафедра/Лекция 1. Инженерия ИИ. Система, роли, жизненный цикл, требования к данным.md",
+    "Matplotlib/Stackplot.md",
+    "Проект ИИ.md",
+    "Matplotlib/Matplotlib.md",
+    "Matplotlib/Bar Plot (Столбчатые диаграммы).md",
+    "Matplotlib",
+    "Корреляция.md",
     "Без названия 2.base",
     "Scikit-learn.Load_diabetes.md",
+    "Matplotlib/Scatter Plot. Диаграмма рассеивания.md",
     "Attachments/Pasted image 20260224152647.png",
     "Attachments/Pasted image 20260224151359.png",
-    "Python/ScikitLearn. Load_Iris. Dataset.md",
-    "Цифровая кафедра/Лекция 2. Данные и признаки. Сбор, очистка, валидация, DataOps.md",
-    "Matplotlib.md",
+    "Attachments/Pasted image 20260224145801.png",
+    "Attachments/Pasted image 20260223003430.png",
+    "Attachments/Pasted image 20260223003300.png",
+    "Attachments/Pasted image 20260223000708.png",
+    "Attachments/Pasted image 20260223201421.png",
     "Цифровая кафедра/Лекция 5. Линейные модели.md",
     "Непрерывность функций. Дифференцируемость.md",
     "Формула для разности степеней.md",
@@ -296,16 +242,16 @@
     "Градиент Нестерова.md",
     "Цифровая кафедра/Лекция 3. Математический праймер для ML.md",
     "Книги/Math/Essential math for data science/Описательная и логическая статистика.md",
-    "Корреляция.md",
-    "Attachments/Pasted image 20260224145801.png",
-    "Scatter Plot. Диаграмма рассеивания.md",
+    "Python/ScikitLearn. Load_Iris. Dataset.md",
+    "Статистика/Показатели разброса. Measures of spread.md",
+    "Attachments/Pasted image 20260223182031.png",
+    "Attachments/Pasted image 20260223175457.png",
+    "Attachments/Pasted image 20260223175235.png",
+    "Цифровая кафедра/Лекция 2. Данные и признаки. Сбор, очистка, валидация, DataOps.md",
     "Понятие базы данных.md",
-    "Без названия.md",
     "Книги/Math/Essential math for data science/Основная информация.md",
     "Цифровая кафедра/Лекция 4. Метрики и экспериментальный дизайн.md",
     "Модели нечетких множеств.md",
-    "Статистика/Статистика.md",
-    "Статистика/Статистика. Начало.md",
     "Статистика",
     "Python",
     "Хэндбук по математике для МЛ",
@@ -313,7 +259,6 @@
     "Цифровая кафедра/Без названия",
     "Цифровая кафедра",
     "Книги/Math/Essential math for data science",
-    "Книги/Math",
-    "Книги/Python/Python для сложных задач/Без названия"
+    "Книги/Math"
   ]
 }
